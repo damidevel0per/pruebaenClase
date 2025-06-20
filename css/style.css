@@ -1,0 +1,60 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+
+.header{
+    padding: 20px;
+    background-color: #0d4461;
+    color: white;
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+}
+
+.hero{
+    background-color: black;
+    background-image: url(../img/hero1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+}
+.hero h1{
+    padding-top: 350px; ;
+}
+
+
+.caja{
+    margin-top: 50px;
+    background-color: #977559;
+    margin-bottom: 50px;
+    margin-left: 500px;
+    width: 800px;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+}
+.caja p{
+    margin-top: 20px;
+}
+
+footer{
+    background-color: #0d4461;
+    text-align: center;
+    height: 10vh;
+    color: white;
+}
+
+footer p{
+    padding-top: 25px;
+}
